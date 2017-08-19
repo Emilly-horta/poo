@@ -7,13 +7,13 @@ package br.edu.ifpi.capar.poo.oracle.academy.exemplos;
 public class Aluno {
 
     //propriedades
-    nome;
-    matricula;
-    idade;
-    cpf;
-    rg;
-    escolaOrigem;
-    curso;
+    String nome;
+    int matricula;
+    int idade;
+    int cpf;
+    int rg;
+    String escolaOrigem;
+    String curso;
     
     //comportamentos
     estudar();
